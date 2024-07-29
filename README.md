@@ -10,13 +10,13 @@
 ## MARKSHEET 
 This is my 10+2 marksheet. 
 
-| S.NO     | SUBJECT        | THEORY  | PRACTICAL    | TOTAL    | GRADE | 
-| -------- | -------------- | ------- | ---------    | -----    | ----- |
-| 1.        | ENGLISH       |  77     |      -       |    97    |    A1    |
-| 2.        | PHYSICS       |  51     |      24      |    80    |    B1    |
-| 3.        | CHEMISTRY     |  63     |      24      |    92    |    A1    |
-| 4.        | MATHEMATICS   |  68     |      -       |    88    |    A2    |
-| 5.        | PUNJABI       |  80     |       -      |    100    |     A1    |
+| S.NO     | SUBJECT        | THEORY  | PRACTICAL    |    INA     |   TOTAL   |   GRADE   | 
+| -------- | -------------- | ------- | ---------    |    ----    |  -------- |  -------- |
+| 1.        | ENGLISH       |  77     |      -       |     20     |     97    |     A1    |
+| 2.        | PHYSICS       |  51     |      24      |     05     |     80    |     B1    |
+| 3.        | CHEMISTRY     |  63     |      24      |     05     |     92    |     A1    |
+| 4.        | MATHEMATICS   |  68     |      -       |     20     |     88    |     A2    |
+| 5.        | PUNJABI       |  80     |      -       |     20     |    100    |     A1    |
 
 Percentage scored : 91.4%
 
