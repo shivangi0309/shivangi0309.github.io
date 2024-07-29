@@ -39,7 +39,7 @@ Percentage scored : 91.4%
 | 24-07-24 | Lakhwir Singh | -Importance of interaction with resource person. -Importance of conversing with peers and batchmates. -Introduction to CML - Centre of Multifaceted Learning and how it promotes holistic learning , communication skills, CV writing and many more non technical skills. -Importance of non paid internships. -Introduction to NPTEL: National Programme on Technology and Enhanced Learning. | 
 
     
-  MY EXCEL CERTIFICATE 
+## MY EXCEL CERTIFICATE 
 
 
 My experience in Excel through this online course is very nice In this course i learn so many things and gane such a huge amount of knowledge form it . Firsty we all know Excel is a spreadsheet program from Microsoft and a component of its Office product group for business applications. Microsoft Excel enables users to format, organize and calculate data in a spreadsheet.
