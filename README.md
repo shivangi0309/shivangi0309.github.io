@@ -3,7 +3,8 @@
 - *I find my interests in mathematics .*
 - *My favorite subject growing up has always been English Which is reflective in my grades.*
 - *As a person , I am very reserved but I try to be helpful to ones around me*.
-- *I may not be as good at drawing or painting but my hand lettering skills make me stand out*.
+- *I am good at drawing and painting.*
+- *My hand lettering skills make me stand out*.
   
 
 ## MARKSHEET 
@@ -12,7 +13,7 @@ This is my 10+2 marksheet.
 | S.NO     | SUBJECT        | THEORY  | PRACTICAL    | TOTAL    | GRADE | 
 | -------- | -------------- | ------- | ---------    | -----    | ----- |
 | 1.        | ENGLISH       |  77     |      -       |    97    |    A1    |
-| 2.        | PHYSICS       |  51     |      24      |    80    |    A2    |
+| 2.        | PHYSICS       |  51     |      24      |    80    |    B1    |
 | 3.        | CHEMISTRY     |  63     |      24      |    92    |    A1    |
 | 4.        | MATHEMATICS   |  68     |      -       |    88    |    A2    |
 | 5.        | PUNJABI       |  80     |       -      |    100    |     A1    |
