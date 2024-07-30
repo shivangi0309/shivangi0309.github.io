@@ -10,19 +10,19 @@
 ## MARKSHEET 
 This is my 10+2 marksheet. 
 
-| S.NO     | SUBJECT        | THEORY  | PRACTICAL    |    INA     |   TOTAL   |   GRADE   | 
-| -------- | -------------- | ------- | ---------    |    ----    |  -------- |  -------- |
-| 1.        | ENGLISH       |  77     |      -       |     20     |     97    |     A1    |
-| 2.        | PHYSICS       |  51     |      24      |     05     |     80    |     B1    |
-| 3.        | CHEMISTRY     |  63     |      24      |     05     |     92    |     A1    |
-| 4.        | MATHEMATICS   |  68     |      -       |     20     |     88    |     A2    |
-| 5.        | PUNJABI       |  80     |      -       |     20     |    100    |     A1    |
+| S.NO     | SUBJECT        | THEORY  | PRACTICAL     |    INA     |   TOTAL   |   GRADE   | 
+| -------- | -------------- | ------- | ---------     |    ----    |  -------- |  -------- |
+| 1.        | ENGLISH       |  77     |      --       |     20     |     97    |     A1    |
+| 2.        | PHYSICS       |  51     |      24       |     05     |     80    |     B1    |
+| 3.        | CHEMISTRY     |  63     |      24       |     05     |     92    |     A1    |
+| 4.        | MATHEMATICS   |  68     |      --       |     20     |     88    |     A2    |
+| 5.        | PUNJABI       |  80     |      --       |     20     |    100    |     A1    |
 
 Percentage scored : 91.4%
 
 ## *REPORT ON STUDENT INDUCTION PROGRAM*
 
-|  DATE OF EVENT  | RESOURCE PERSON/CLASS      | DESCRIPTION  |
+|  DATE OF EVENT  | RESOURCE PERSON     | DESCRIPTION  |
 | ----------------- |:-------------:        | -----:       |
 | 11-07-24         | Dr. Arvind Dhingra    |  Importance of developing skills and co curicular activities along with studies  |
 | 11-07-24   | Dr. H.S. Rai          | Discussions of oppurtunities in the field of computer science and coding.             |
